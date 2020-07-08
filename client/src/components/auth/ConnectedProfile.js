@@ -1,0 +1,1 @@
+<ProtectedRoute exact path='/profile' component={Profile} />
